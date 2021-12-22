@@ -17,3 +17,7 @@ A simple landing page with only HTML CSS and small Javascript. It also contains 
 
 ### Reference:
 Special Thanks to [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) . This project is created by referring his youtube video.
+
+
+
+## See The LIVE site : [HERE](https://ashwinkl.github.io/simple-landing-page/)
