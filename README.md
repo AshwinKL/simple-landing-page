@@ -14,3 +14,6 @@ A simple landing page with only HTML CSS and small Javascript. It also contains 
 - Html
 - Css
 - Javascript
+
+### Reference:
+Special Thanks to [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) . This project is created by referring his youtube video.
