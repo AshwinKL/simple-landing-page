@@ -20,4 +20,4 @@ Special Thanks to [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1U
 
 
 
-## See The LIVE site : [HERE](https://ashwinkl.github.io/simple-landing-page/)
+## See the live site : [HERE](https://ashwinkl.github.io/simple-landing-page/)
